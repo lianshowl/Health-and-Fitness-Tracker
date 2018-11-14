@@ -1,6 +1,6 @@
-# Health-and-Fitness-Tracker
+# Health and Fitness Monitor
 
-#Group Members: Lian Showl, Simon Patel, Timothy Lytkine
+Group Members: Lian Showl, Simon Patel, Timothy Lytkine
 ##Background
 
 For our final project, we built our own fitness monitoring device that is capable of
