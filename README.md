@@ -1,8 +1,8 @@
 # Health and Fitness Monitor
 
 Group Members: Lian Showl, Simon Patel, Timothy Lytkine
-##Background
 
+##Background
 For our final project, we built our own fitness monitoring device that is capable of
 running the basic analytics on information given to it. There are two main components of
 the system which are data collection and data processing. The sensors used were the
